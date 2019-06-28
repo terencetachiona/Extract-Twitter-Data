@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jun 07 12:43:51 2019
+
+@author: Terence.Tachiona
+"""
 import sys
 if sys.version_info[0] < 3:
     import got
